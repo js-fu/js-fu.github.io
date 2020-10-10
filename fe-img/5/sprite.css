@@ -1,0 +1,26 @@
+.icons-cart-circle:before,.icons-card:before,.icons-card-orange:before,.icons-demand-add:before,.icons-close:before,.icons-loc:before,.icons-loc_w:before,.icons-logo:before,.icons-smile-c:before,.icons-notice:before,.icons-smile:before,.icons-selected:before,.icons-cart-circle-rem:before,.icons-card-rem:before,.icons-card-orange-rem:before,.icons-demand-add-rem:before,.icons-close-rem:before,.icons-loc-rem:before,.icons-loc_w-rem:before,.icons-logo-rem:before,.icons-smile-c-rem:before,.icons-notice-rem:before,.icons-smile-rem:before,.icons-selected-rem:before{background-image: url("sprite-icons.png");content:'';display:inline-block;font-size:0px;vertical-align:middle;background-size: 32px 258px;}
+.icons-cart-circle-rem:before,.icons-card-rem:before,.icons-card-orange-rem:before,.icons-demand-add-rem:before,.icons-close-rem:before,.icons-loc-rem:before,.icons-loc_w-rem:before,.icons-logo-rem:before,.icons-smile-c-rem:before,.icons-notice-rem:before,.icons-smile-rem:before,.icons-selected-rem:before{background-size: 0.32rem 2.58rem;}
+.icons-cart-circle:before{background-position: -0px -0px; width: 28px; height: 29px;}
+.icons-cart-circle-rem:before{background-position: -0rem -0rem; width: 0.28rem; height: 0.29rem;}
+.icons-card:before{background-position: -0px -29px; width: 14px; height: 11px;}
+.icons-card-rem:before{background-position: -0rem -0.29rem; width: 0.14rem; height: 0.11rem;}
+.icons-card-orange:before{background-position: -0px -40px; width: 14px; height: 11px;}
+.icons-card-orange-rem:before{background-position: -0rem -0.4rem; width: 0.14rem; height: 0.11rem;}
+.icons-demand-add:before{background-position: -0px -51px; width: 23px; height: 28px;}
+.icons-demand-add-rem:before{background-position: -0rem -0.51rem; width: 0.23rem; height: 0.28rem;}
+.icons-close:before{background-position: -0px -79px; width: 15px; height: 14px;}
+.icons-close-rem:before{background-position: -0rem -0.79rem; width: 0.15rem; height: 0.14rem;}
+.icons-loc:before{background-position: -0px -93px; width: 18px; height: 21px;}
+.icons-loc-rem:before{background-position: -0rem -0.93rem; width: 0.18rem; height: 0.21rem;}
+.icons-loc_w:before{background-position: -0px -114px; width: 18px; height: 21px;}
+.icons-loc_w-rem:before{background-position: -0rem -1.14rem; width: 0.18rem; height: 0.21rem;}
+.icons-logo:before{background-position: -0px -135px; width: 32px; height: 32px;}
+.icons-logo-rem:before{background-position: -0rem -1.35rem; width: 0.32rem; height: 0.32rem;}
+.icons-smile-c:before{background-position: -0px -167px; width: 19px; height: 19px;}
+.icons-smile-c-rem:before{background-position: -0rem -1.67rem; width: 0.19rem; height: 0.19rem;}
+.icons-notice:before{background-position: -0px -186px; width: 18px; height: 22px;}
+.icons-notice-rem:before{background-position: -0rem -1.86rem; width: 0.18rem; height: 0.22rem;}
+.icons-smile:before{background-position: -0px -208px; width: 22px; height: 21px;}
+.icons-smile-rem:before{background-position: -0rem -2.08rem; width: 0.22rem; height: 0.21rem;}
+.icons-selected:before{background-position: -0px -229px; width: 26px; height: 29px;}
+.icons-selected-rem:before{background-position: -0rem -2.29rem; width: 0.26rem; height: 0.29rem;}
